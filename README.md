@@ -8,7 +8,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
+Created a Weather Dashboard that lets the user choose a city and then displays weather information for the current day as well as a 5 day forecast.
+
 ## 🎈 Usage <a name="usage"></a>
+
+Local storage saves the city the user selected and allows user to click on their previous searches to display current and 5 day weather forecast. The UV index is color coded based on whatever level is showing for that day.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
