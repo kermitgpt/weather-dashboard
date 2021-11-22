@@ -28,8 +28,12 @@ Deployed this website using GitHub pages. In order to do this I went to settings
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- 🏆
+- 🏆 Worked with Austin on the beginning of this and lots of google searches were very helpful
 
 ## 🔗 Link to deployed website
 
+https://mattgrogandev.github.io/weather-dashboard/
+
 ## 🖼️ Image of final website
+
+![finalPic](assets/images/1.jpg)
