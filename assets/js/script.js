@@ -24,7 +24,7 @@ function fetchApi() {
   var myKey = "4c4bcf68ece59c4349091a9dded4ab01";
   var city = document.querySelector(".userInput");
   var userInput = city.value;
-  var requestUrl = `http://api.openweathermap.org/geo/1.0/direct?q=${userInput}&limit=1&appid=${myKey}`;
+  var requestUrl = `https://api.openweathermap.org/geo/1.0/direct?q=${userInput}&limit=1&appid=${myKey}`;
   fetch(requestUrl)
     .then(function (response) {
       var data = response.json();
